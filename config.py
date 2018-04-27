@@ -5,7 +5,6 @@ class Config(object):
     """
     Common configurations
     """
-    SQLALCHEMY_DATABASE_URI = "sqlite:///app.db"
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     # Put any configurations here that are common across all environments
 
