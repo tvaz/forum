@@ -104,3 +104,6 @@ ENV/
 migrations/
 instance/
 *.db
+
+# Angular stuff
+node_modules/
